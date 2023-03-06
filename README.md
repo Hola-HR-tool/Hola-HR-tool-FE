@@ -1,0 +1,3 @@
+cd Hola-HR-tool-FE  
+yarn start
+.......
